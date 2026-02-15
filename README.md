@@ -1,5 +1,6 @@
 - Hi, I’m @Isdert
-- I'm a linux lover but I'm always too lazy to solve problems
+- A linux lover
+- I'm lazy
 
 <!---
 Isdert/Isdert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
